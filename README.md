@@ -1,2 +1,2 @@
-# My_Surge_Ruleset
-My_Surge_Ruleset
+# My_Surge_Rules
+My_Surge_Rules
