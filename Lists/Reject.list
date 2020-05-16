@@ -1,5 +1,8 @@
 # Ads in Video apps
 
+# > Mijia App Ads
+DOMAIN-SUFFIX,fds.api.xiaomi.com,REJECT
+
 # > iqiyi & pps
 DOMAIN-SUFFIX,a.ckm.iqiyi.com
 DOMAIN-SUFFIX,ad.m.iqiyi.com
